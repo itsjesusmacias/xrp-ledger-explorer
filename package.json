@@ -1,0 +1,42 @@
+{
+  "name": "xrp-ledger-explorer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "2.0.17",
+    "@chakra-ui/react": "2.5.1",
+    "@emotion/react": "11.10.6",
+    "@emotion/styled": "11.10.6",
+    "crypto-browserify": "3.12.0",
+    "events": "3.3.0",
+    "framer-motion": "10.3.2",
+    "https-browserify": "1.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "stream-browserify": "3.0.0",
+    "stream-http": "3.2.0",
+    "wouter": "2.10.0",
+    "xrpl": "2.7.0"
+  },
+  "devDependencies": {
+    "@esbuild-plugins/node-globals-polyfill": "0.2.3",
+    "@testing-library/dom": "9.0.1",
+    "@testing-library/jest-dom": "5.16.5",
+    "@testing-library/react": "14.0.0",
+    "@types/react": "18.0.27",
+    "@types/react-dom": "18.0.10",
+    "@vitejs/plugin-react": "3.1.0",
+    "jsdom": "^21.1.1",
+    "rollup-plugin-polyfill-node": "0.12.0",
+    "typescript": "4.9.3",
+    "vite": "4.1.0",
+    "vitest": "0.29.3"
+  }
+}
