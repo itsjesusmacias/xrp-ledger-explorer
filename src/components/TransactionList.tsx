@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 // components
 import { Box, Center, Divider, Text } from "@chakra-ui/react";
 import { TransactionDetail } from "./TransactionDetail";

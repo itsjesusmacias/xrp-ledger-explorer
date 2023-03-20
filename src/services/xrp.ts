@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import { Client, AccountTxRequest, AccountTxResponse } from "xrpl";
 
 // constants

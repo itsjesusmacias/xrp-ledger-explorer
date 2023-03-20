@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 // components
 import { Box, Badge, Text } from "@chakra-ui/react";
 

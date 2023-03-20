@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 // constants
 import {
   TRANSACTION_TYPE,

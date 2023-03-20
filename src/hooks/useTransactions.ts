@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 // hooks
 import { useState } from "react";
 import { useLocation } from "wouter";

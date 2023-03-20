@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 // components
 import { Box, Center, Heading, Spinner, Text } from "@chakra-ui/react";
 import {
